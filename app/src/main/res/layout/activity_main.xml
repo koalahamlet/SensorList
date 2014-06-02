@@ -1,0 +1,16 @@
+
+
+    <ListView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@android:id/list"
+        android:dividerHeight="10sp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.sensorlist.app.MainActivity"
+        ></ListView>
+        <!--A note to future adventurers: the id of this might look weird. That is ok.-->
+        <!--List activity requires a special annotation where you assign the list a premade id-->
+        <!--as opposed to one that you create with the @+id annotation-->
+
+
